@@ -1,0 +1,13 @@
+.chart-box {
+  height: 250px;
+}
+
+.profit-positive {
+  color: #16a34a;
+  font-weight: 600;
+}
+
+.profit-negative {
+  color: #dc2626;
+  font-weight: 600;
+}

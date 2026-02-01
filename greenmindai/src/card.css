@@ -1,0 +1,18 @@
+.card {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 35px rgba(0,0,0,0.08);
+}
+
+.card-title {
+  font-size: 18px;
+  margin-bottom: 12px;
+  color: #065f46;
+}

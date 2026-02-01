@@ -1,0 +1,17 @@
+.subsidy-item {
+  background: #ecfeff;
+  border-left: 5px solid #0ea5e9;
+  padding: 14px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.subsidy-item h4 {
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+
+.subsidy-item p {
+  font-size: 13px;
+  color: #374151;
+}

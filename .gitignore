@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# ML models
+*.h5
+*.pt
+*.pth
+
+# Django
+db.sqlite3
+*.log
